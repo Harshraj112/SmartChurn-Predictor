@@ -43,8 +43,6 @@ venv.bak/
 Thumbs.db
 
 # Deep Learning Models
-*.h5
-*.pkl
 *.pickle
 *.model
 *.pth
