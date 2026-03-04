@@ -18,7 +18,7 @@ st.set_page_config(
 # ─── Load Model & Artifacts ────────────────────────────────────────────────────
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model('model.h5')
+    return tf.keras.models.load_model('model.keras')
 
 @st.cache_resource
 def load_encoders():
