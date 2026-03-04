@@ -64,7 +64,7 @@ SmartChurn Predictor/
 ├── prediction.ipynb                # Standalone prediction notebook
 ├── salaryregression.ipynb          # Regression model for salary prediction
 │
-├── model.h5                        # Trained Keras ANN model
+├── model.keras                     # Trained Keras ANN model
 ├── label_encoder_gender.pkl        # Fitted LabelEncoder for Gender
 ├── onehot_encoder_geo.pkl          # Fitted OneHotEncoder for Geography
 ├── scaler.pkl                      # Fitted StandardScaler
